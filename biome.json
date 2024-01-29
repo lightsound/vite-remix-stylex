@@ -1,7 +1,7 @@
 {
 	"$schema": "https://biomejs.dev/schemas/1.5.3/schema.json",
 	"files": {
-		"ignore": ["public", ".next", ".history"]
+		"ignore": ["public", "build", ".history"]
 	},
 	"organizeImports": {
 		"enabled": true

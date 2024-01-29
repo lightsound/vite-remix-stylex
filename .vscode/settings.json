@@ -8,13 +8,7 @@
 	"[markdown]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"cSpell.words": [
-		"biomejs",
-		"isbot",
-		"nextjs",
-		"stylex",
-		"stylexjs"
-	],
+	"cSpell.words": ["biomejs", "isbot", "stylesheet", "stylex", "stylexjs"],
 	"css.validate": false,
 	"editor.codeActionsOnSave": {
 		"quickfix.biome": "always",
